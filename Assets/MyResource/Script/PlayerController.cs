@@ -13,7 +13,12 @@ public class PlayerController : MonoBehaviour {
 	public float backAnimationSpeed;
 
 
-	public Animator animator;
+	private Animator animator;
+
+	//ここから攻撃用設定
+	//アクションを起こす対象を格納する
+	public GameObject TargetObject;
+
 
 	private bool jumping;
 

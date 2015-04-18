@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 567381a8a5d154032b834a22901ad37f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bone1
+    100002: bone2
+    100004: eye1
+    100006: eye2
+    100008: joint1
+    100010: joint2
+    100012: joint4
+    100014: joint5
+    100016: slime1
+    100018: //RootNode
+    400000: bone1
+    400002: bone2
+    400004: eye1
+    400006: eye2
+    400008: joint1
+    400010: joint2
+    400012: joint4
+    400014: joint5
+    400016: slime1
+    400018: //RootNode
+    2300000: eye1
+    2300002: eye2
+    3300000: eye1
+    3300002: eye2
+    4300000: slime1
+    4300002: eye2
+    4300004: eye1
+    7400000: idle
+    7400002: walk
+    7400004: attack1
+    7400006: attack2
+    7400008: hit
+    7400010: die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: slime1
+  materials:
+    importMaterials: 0
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 113
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack1
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 188
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 255
+      lastFrame: 284
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: Take 001
+      firstFrame: 352
+      lastFrame: 403
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone1
+        weight: 1
+      - path: bone1/joint1
+        weight: 1
+      - path: bone1/joint1/joint2
+        weight: 1
+      - path: bone1/joint1/joint2/joint4
+        weight: 1
+      - path: bone1/joint1/joint2/joint5
+        weight: 1
+      - path: bone2
+        weight: 1
+      - path: bone2/eye1
+        weight: 1
+      - path: bone2/eye2
+        weight: 1
+      - path: slime1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

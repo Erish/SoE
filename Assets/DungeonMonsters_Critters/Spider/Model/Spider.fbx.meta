@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 2253e556704004dccac2582fae30bd3b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: eyes
+    100004: head
+    100006: headJoint
+    100008: jawDER1
+    100010: jawDER2
+    100012: jawIZQ1
+    100014: jawIZQ2
+    100016: joint10
+    100018: joint9
+    100020: legDER1_A
+    100022: legDER1_B
+    100024: legDER1_C
+    100026: legDER1_D
+    100028: legDER1_E
+    100030: legDER2_A
+    100032: legDER2_B
+    100034: legDER2_C
+    100036: legDER2_E
+    100038: legDER3_A
+    100040: legDER3_A1
+    100042: legDER3_B
+    100044: legDER3_B 1
+    100046: legDER3_C
+    100048: legDER3_C 1
+    100050: legDER3_D
+    100052: legDER3_D 1
+    100054: legDER3_D 2
+    100056: legDER3_E
+    100058: legDER3_E 1
+    100060: legIZQ1_A
+    100062: legIZQ1_B
+    100064: legIZQ1_C
+    100066: legIZQ1_D
+    100068: legIZQ1_E
+    100070: legIZQ2_A
+    100072: legIZQ2_B
+    100074: legIZQ2_C
+    100076: legIZQ2_E
+    100078: legIZQ3_A
+    100080: legIZQ3_A1
+    100082: legIZQ3_B
+    100084: legIZQ3_B 1
+    100086: legIZQ3_C
+    100088: legIZQ3_C 1
+    100090: legIZQ3_D
+    100092: legIZQ3_D 1
+    100094: legIZQ3_D 2
+    100096: legIZQ3_E
+    100098: legIZQ3_E 1
+    100100: mandibleDER1
+    100102: mandibleDER2
+    100104: mandibleDER3
+    100106: mandibleIZQ1
+    100108: mandibleIZQ2
+    100110: mandibleIZQ3
+    100112: masterLegDER
+    100114: masterLegIZQ
+    100116: nurbsCircle18
+    100118: root
+    100120: //RootNode
+    100122: spider
+    400000: body
+    400002: eyes
+    400004: head
+    400006: headJoint
+    400008: jawDER1
+    400010: jawDER2
+    400012: jawIZQ1
+    400014: jawIZQ2
+    400016: joint10
+    400018: joint9
+    400020: legDER1_A
+    400022: legDER1_B
+    400024: legDER1_C
+    400026: legDER1_D
+    400028: legDER1_E
+    400030: legDER2_A
+    400032: legDER2_B
+    400034: legDER2_C
+    400036: legDER2_E
+    400038: legDER3_A
+    400040: legDER3_A1
+    400042: legDER3_B
+    400044: legDER3_B 1
+    400046: legDER3_C
+    400048: legDER3_C 1
+    400050: legDER3_D
+    400052: legDER3_D 1
+    400054: legDER3_D 2
+    400056: legDER3_E
+    400058: legDER3_E 1
+    400060: legIZQ1_A
+    400062: legIZQ1_B
+    400064: legIZQ1_C
+    400066: legIZQ1_D
+    400068: legIZQ1_E
+    400070: legIZQ2_A
+    400072: legIZQ2_B
+    400074: legIZQ2_C
+    400076: legIZQ2_E
+    400078: legIZQ3_A
+    400080: legIZQ3_A1
+    400082: legIZQ3_B
+    400084: legIZQ3_B 1
+    400086: legIZQ3_C
+    400088: legIZQ3_C 1
+    400090: legIZQ3_D
+    400092: legIZQ3_D 1
+    400094: legIZQ3_D 2
+    400096: legIZQ3_E
+    400098: legIZQ3_E 1
+    400100: mandibleDER1
+    400102: mandibleDER2
+    400104: mandibleDER3
+    400106: mandibleIZQ1
+    400108: mandibleIZQ2
+    400110: mandibleIZQ3
+    400112: masterLegDER
+    400114: masterLegIZQ
+    400116: nurbsCircle18
+    400118: root
+    400120: //RootNode
+    400122: spider
+    2300000: eyes
+    3300000: eyes
+    4300000: spider
+    4300002: eyes
+    7400000: idle
+    7400002: attack
+    7400004: hit
+    7400006: walk
+    7400008: die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: spider
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/headJoint
+        weight: 1
+      - path: nurbsCircle18/headJoint/eyes
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/head
+        weight: 1
+      - path: root/head/jawDER1
+        weight: 1
+      - path: root/head/jawDER1/jawDER2
+        weight: 1
+      - path: root/head/jawIZQ1
+        weight: 1
+      - path: root/head/jawIZQ1/jawIZQ2
+        weight: 1
+      - path: root/head/mandibleDER1
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2/mandibleDER3
+        weight: 1
+      - path: root/head/mandibleIZQ1
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2/mandibleIZQ3
+        weight: 1
+      - path: root/joint10
+        weight: 1
+      - path: root/joint10/body
+        weight: 1
+      - path: root/joint10/body/joint9
+        weight: 1
+      - path: root/masterLegDER
+        weight: 1
+      - path: root/masterLegDER/legDER1_A
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D/legDER1_E
+        weight: 1
+      - path: root/masterLegDER/legDER2_A
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D/legDER2_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1/legDER3_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2/legDER3_E
+          1
+        weight: 1
+      - path: root/masterLegIZQ
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D/legIZQ1_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D/legIZQ2_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1/legIZQ3_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2/legIZQ3_E
+          1
+        weight: 1
+      - path: spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/headJoint
+        weight: 1
+      - path: nurbsCircle18/headJoint/eyes
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/head
+        weight: 1
+      - path: root/head/jawDER1
+        weight: 1
+      - path: root/head/jawDER1/jawDER2
+        weight: 1
+      - path: root/head/jawIZQ1
+        weight: 1
+      - path: root/head/jawIZQ1/jawIZQ2
+        weight: 1
+      - path: root/head/mandibleDER1
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2/mandibleDER3
+        weight: 1
+      - path: root/head/mandibleIZQ1
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2/mandibleIZQ3
+        weight: 1
+      - path: root/joint10
+        weight: 1
+      - path: root/joint10/body
+        weight: 1
+      - path: root/joint10/body/joint9
+        weight: 1
+      - path: root/masterLegDER
+        weight: 1
+      - path: root/masterLegDER/legDER1_A
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D/legDER1_E
+        weight: 1
+      - path: root/masterLegDER/legDER2_A
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D/legDER2_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1/legDER3_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2/legDER3_E
+          1
+        weight: 1
+      - path: root/masterLegIZQ
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D/legIZQ1_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D/legIZQ2_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1/legIZQ3_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2/legIZQ3_E
+          1
+        weight: 1
+      - path: spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/headJoint
+        weight: 1
+      - path: nurbsCircle18/headJoint/eyes
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/head
+        weight: 1
+      - path: root/head/jawDER1
+        weight: 1
+      - path: root/head/jawDER1/jawDER2
+        weight: 1
+      - path: root/head/jawIZQ1
+        weight: 1
+      - path: root/head/jawIZQ1/jawIZQ2
+        weight: 1
+      - path: root/head/mandibleDER1
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2/mandibleDER3
+        weight: 1
+      - path: root/head/mandibleIZQ1
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2/mandibleIZQ3
+        weight: 1
+      - path: root/joint10
+        weight: 1
+      - path: root/joint10/body
+        weight: 1
+      - path: root/joint10/body/joint9
+        weight: 1
+      - path: root/masterLegDER
+        weight: 1
+      - path: root/masterLegDER/legDER1_A
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D/legDER1_E
+        weight: 1
+      - path: root/masterLegDER/legDER2_A
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D/legDER2_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1/legDER3_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2/legDER3_E
+          1
+        weight: 1
+      - path: root/masterLegIZQ
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D/legIZQ1_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D/legIZQ2_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1/legIZQ3_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2/legIZQ3_E
+          1
+        weight: 1
+      - path: spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 277
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/headJoint
+        weight: 1
+      - path: nurbsCircle18/headJoint/eyes
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/head
+        weight: 1
+      - path: root/head/jawDER1
+        weight: 1
+      - path: root/head/jawDER1/jawDER2
+        weight: 1
+      - path: root/head/jawIZQ1
+        weight: 1
+      - path: root/head/jawIZQ1/jawIZQ2
+        weight: 1
+      - path: root/head/mandibleDER1
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2/mandibleDER3
+        weight: 1
+      - path: root/head/mandibleIZQ1
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2/mandibleIZQ3
+        weight: 1
+      - path: root/joint10
+        weight: 1
+      - path: root/joint10/body
+        weight: 1
+      - path: root/joint10/body/joint9
+        weight: 1
+      - path: root/masterLegDER
+        weight: 1
+      - path: root/masterLegDER/legDER1_A
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D/legDER1_E
+        weight: 1
+      - path: root/masterLegDER/legDER2_A
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D/legDER2_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1/legDER3_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2/legDER3_E
+          1
+        weight: 1
+      - path: root/masterLegIZQ
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D/legIZQ1_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D/legIZQ2_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1/legIZQ3_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2/legIZQ3_E
+          1
+        weight: 1
+      - path: spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/headJoint
+        weight: 1
+      - path: nurbsCircle18/headJoint/eyes
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/head
+        weight: 1
+      - path: root/head/jawDER1
+        weight: 1
+      - path: root/head/jawDER1/jawDER2
+        weight: 1
+      - path: root/head/jawIZQ1
+        weight: 1
+      - path: root/head/jawIZQ1/jawIZQ2
+        weight: 1
+      - path: root/head/mandibleDER1
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2
+        weight: 1
+      - path: root/head/mandibleDER1/mandibleDER2/mandibleDER3
+        weight: 1
+      - path: root/head/mandibleIZQ1
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2
+        weight: 1
+      - path: root/head/mandibleIZQ1/mandibleIZQ2/mandibleIZQ3
+        weight: 1
+      - path: root/joint10
+        weight: 1
+      - path: root/joint10/body
+        weight: 1
+      - path: root/joint10/body/joint9
+        weight: 1
+      - path: root/masterLegDER
+        weight: 1
+      - path: root/masterLegDER/legDER1_A
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D
+        weight: 1
+      - path: root/masterLegDER/legDER1_A/legDER1_B/legDER1_C/legDER1_D/legDER1_E
+        weight: 1
+      - path: root/masterLegDER/legDER2_A
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D
+        weight: 1
+      - path: root/masterLegDER/legDER2_A/legDER2_B/legDER2_C/legDER3_D/legDER2_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A/legDER3_B/legDER3_C/legDER3_D 1/legDER3_E
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2
+        weight: 1
+      - path: root/masterLegDER/legDER3_A1/legDER3_B 1/legDER3_C 1/legDER3_D 2/legDER3_E
+          1
+        weight: 1
+      - path: root/masterLegIZQ
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ1_A/legIZQ1_B/legIZQ1_C/legIZQ1_D/legIZQ1_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ2_A/legIZQ2_B/legIZQ2_C/legIZQ3_D/legIZQ2_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A/legIZQ3_B/legIZQ3_C/legIZQ3_D 1/legIZQ3_E
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2
+        weight: 1
+      - path: root/masterLegIZQ/legIZQ3_A1/legIZQ3_B 1/legIZQ3_C 1/legIZQ3_D 2/legIZQ3_E
+          1
+        weight: 1
+      - path: spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 0bda9e909ea1c414eb952959f8165bab
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: alaDER01
+    100002: alaDER02
+    100004: alaDER03
+    100006: alaDER04
+    100008: alaIZQ01
+    100010: alaIZQ02
+    100012: alaIZQ03
+    100014: alaIZQ04
+    100016: //RootNode
+    100018: bat
+    100020: eye1
+    100022: eye2
+    100024: joint1
+    100026: joint2
+    100028: joint3
+    100030: joint8
+    100032: teeth
+    400000: alaDER01
+    400002: alaDER02
+    400004: alaDER03
+    400006: alaDER04
+    400008: alaIZQ01
+    400010: alaIZQ02
+    400012: alaIZQ03
+    400014: alaIZQ04
+    400016: //RootNode
+    400018: bat
+    400020: eye1
+    400022: eye2
+    400024: joint1
+    400026: joint2
+    400028: joint3
+    400030: joint8
+    400032: teeth
+    2300000: eye1
+    2300002: eye2
+    2300004: teeth
+    3300000: eye1
+    3300002: eye2
+    3300004: teeth
+    4300000: bat
+    4300002: eye2
+    4300004: eye1
+    4300006: teeth
+    7400000: idle
+    7400002: attack
+    7400004: hit
+    7400006: die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bat
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bat
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03/alaDER04
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03/alaIZQ04
+        weight: 1
+      - path: joint1/joint2/joint3/eye1
+        weight: 1
+      - path: joint1/joint2/joint3/eye2
+        weight: 1
+      - path: joint1/joint2/teeth
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 12
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bat
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03/alaDER04
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03/alaIZQ04
+        weight: 1
+      - path: joint1/joint2/joint3/eye1
+        weight: 1
+      - path: joint1/joint2/joint3/eye2
+        weight: 1
+      - path: joint1/joint2/teeth
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bat
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03/alaDER04
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03/alaIZQ04
+        weight: 1
+      - path: joint1/joint2/joint3/eye1
+        weight: 1
+      - path: joint1/joint2/joint3/eye2
+        weight: 1
+      - path: joint1/joint2/teeth
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bat
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03
+        weight: 1
+      - path: joint1/joint2/joint3/alaDER01/alaDER02/alaDER03/alaDER04
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03
+        weight: 1
+      - path: joint1/joint2/joint3/alaIZQ01/alaIZQ02/alaIZQ03/alaIZQ04
+        weight: 1
+      - path: joint1/joint2/joint3/eye1
+        weight: 1
+      - path: joint1/joint2/joint3/eye2
+        weight: 1
+      - path: joint1/joint2/teeth
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
