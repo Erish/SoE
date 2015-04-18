@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: c7fcd46988a805b49a39364cefaa1e22
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Shoulder L Bone
+    100002: Shield Bone
+    100004: Bip001
+    100006: Object001
+    100008: R_side01
+    100010: L_side_end
+    100012: R_side03
+    100014: //RootNode
+    100016: Bip001 R Calf
+    100018: Bip001 R Thigh
+    100020: L_side03
+    100022: L_side02
+    100024: Bip001 R Hand
+    100026: Skirt R Bone
+    100028: Bone07
+    100030: sword01
+    100032: Sword Bone
+    100034: Bip001 L Thigh
+    100036: Cape Bone Dummy
+    100038: Cape Bone
+    100040: Bone04
+    100042: Bone03
+    100044: Bip001 Tail2
+    100046: Bip001 Tail1
+    100048: Bip001 Tail
+    100050: R_side_end
+    100052: Bip001 R Toe0
+    100054: Bip001 R Foot
+    100056: R_side02
+    100058: L_side01
+    100060: Bone02
+    100062: Bone09
+    100064: Bone08
+    100066: Bone06
+    100068: Bone01
+    100070: Bip001 TailNub
+    100072: Bip001 Spine1
+    100074: Bip001 Spine
+    100076: Bip001 Pelvis
+    100078: Bip001 Prop1
+    100080: Bip001 L Toe0
+    100082: Bip001 L Foot
+    100084: Bip001 L Calf
+    100086: Bip001 HeadNub
+    100088: Bip001 Head
+    100090: Shoulder R Bone
+    100092: Skirt RS Bone Dummy03
+    100094: Skirt L Bone Dummy
+    100096: Skirt RS Bone Dummy02
+    100098: Skirt R Bone Dummy
+    100100: Skirt B Bone Dummy
+    100102: Bip001 R Toe0Nub
+    100104: Bip001 L Toe0Nub
+    100106: Bip001 Ponytail1Nub
+    100108: Bip001 Ponytail12
+    100110: Bip001 Ponytail11
+    100112: Bip001 Ponytail1
+    100114: Shoulder R Bone Dummy
+    100116: Bip001 R Finger2Nub
+    100118: Bip001 R Finger21
+    100120: Bip001 R Finger2
+    100122: Bip001 R Finger1Nub
+    100124: Bip001 R Finger11
+    100126: Bip001 R Finger1
+    100128: Bip001 R Finger0Nub
+    100130: Bip001 R Finger01
+    100132: Bip001 R Finger0
+    100134: Bip001 R Forearm
+    100136: Bip001 R UpperArm
+    100138: Bip001 R Clavicle
+    100140: Shoulder L Bone Dummy
+    100142: Bip001 L Finger2Nub
+    100144: Bip001 L Finger21
+    100146: Bip001 L Finger2
+    100148: Bip001 L Finger1Nub
+    100150: Bip001 L Finger11
+    100152: Bip001 L Finger1
+    100154: Bip001 L Finger0Nub
+    100156: Bip001 L Finger01
+    100158: Bip001 L Finger0
+    100160: Bip001 L Forearm
+    100162: Bip001 L UpperArm
+    100164: Bip001 L Clavicle
+    100166: Bip001 Footsteps
+    100168: headusOBJexport009
+    100170: headusOBJexport008
+    100172: Particle VADSiew 01
+    100174: Particle VieADw 01
+    100176: Particle VieDSw 01
+    100178: Particle View 0ASD1
+    100180: Particle View 01 3
+    100182: Particle View 01 2
+    100184: Particle View 01 1
+    100186: Particle View 01
+    100188: Bip001 L Hand
+    100190: Bip001 Neck
+    100192: Bip001 Spine2
+    100194: Skirt L Bone
+    100196: Soldier
+    100198: Point001
+    100200: BG_weapon
+    100202: BG_Weapon_Bone001
+    100204: BG_Weapon_Ctl
+    100206: BladeGirl_Body
+    100208: BladeGirl_Shoulder
+    400000: Shoulder L Bone
+    400002: Shield Bone
+    400004: Bip001
+    400006: Object001
+    400008: R_side01
+    400010: L_side_end
+    400012: R_side03
+    400014: //RootNode
+    400016: Bip001 R Calf
+    400018: Bip001 R Thigh
+    400020: L_side03
+    400022: L_side02
+    400024: Bip001 R Hand
+    400026: Skirt R Bone
+    400028: Bone07
+    400030: sword01
+    400032: Sword Bone
+    400034: Bip001 L Thigh
+    400036: Cape Bone Dummy
+    400038: Cape Bone
+    400040: Bone04
+    400042: Bone03
+    400044: Bip001 Tail2
+    400046: Bip001 Tail1
+    400048: Bip001 Tail
+    400050: R_side_end
+    400052: Bip001 R Toe0
+    400054: Bip001 R Foot
+    400056: R_side02
+    400058: L_side01
+    400060: Bone02
+    400062: Bone09
+    400064: Bone08
+    400066: Bone06
+    400068: Bone01
+    400070: Bip001 TailNub
+    400072: Bip001 Spine1
+    400074: Bip001 Spine
+    400076: Bip001 Pelvis
+    400078: Bip001 Prop1
+    400080: Bip001 L Toe0
+    400082: Bip001 L Foot
+    400084: Bip001 L Calf
+    400086: Bip001 HeadNub
+    400088: Bip001 Head
+    400090: Shoulder R Bone
+    400092: Skirt RS Bone Dummy03
+    400094: Skirt L Bone Dummy
+    400096: Skirt RS Bone Dummy02
+    400098: Skirt R Bone Dummy
+    400100: Skirt B Bone Dummy
+    400102: Bip001 R Toe0Nub
+    400104: Bip001 L Toe0Nub
+    400106: Bip001 Ponytail1Nub
+    400108: Bip001 Ponytail12
+    400110: Bip001 Ponytail11
+    400112: Bip001 Ponytail1
+    400114: Shoulder R Bone Dummy
+    400116: Bip001 R Finger2Nub
+    400118: Bip001 R Finger21
+    400120: Bip001 R Finger2
+    400122: Bip001 R Finger1Nub
+    400124: Bip001 R Finger11
+    400126: Bip001 R Finger1
+    400128: Bip001 R Finger0Nub
+    400130: Bip001 R Finger01
+    400132: Bip001 R Finger0
+    400134: Bip001 R Forearm
+    400136: Bip001 R UpperArm
+    400138: Bip001 R Clavicle
+    400140: Shoulder L Bone Dummy
+    400142: Bip001 L Finger2Nub
+    400144: Bip001 L Finger21
+    400146: Bip001 L Finger2
+    400148: Bip001 L Finger1Nub
+    400150: Bip001 L Finger11
+    400152: Bip001 L Finger1
+    400154: Bip001 L Finger0Nub
+    400156: Bip001 L Finger01
+    400158: Bip001 L Finger0
+    400160: Bip001 L Forearm
+    400162: Bip001 L UpperArm
+    400164: Bip001 L Clavicle
+    400166: Bip001 Footsteps
+    400168: headusOBJexport009
+    400170: headusOBJexport008
+    400172: Particle VADSiew 01
+    400174: Particle VieADw 01
+    400176: Particle VieDSw 01
+    400178: Particle View 0ASD1
+    400180: Particle View 01 3
+    400182: Particle View 01 2
+    400184: Particle View 01 1
+    400186: Particle View 01
+    400188: Bip001 L Hand
+    400190: Bip001 Neck
+    400192: Bip001 Spine2
+    400194: Skirt L Bone
+    400196: Soldier
+    400198: Point001
+    400200: BG_weapon
+    400202: BG_Weapon_Bone001
+    400204: BG_Weapon_Ctl
+    400206: BladeGirl_Body
+    400208: BladeGirl_Shoulder
+    2300000: sword01
+    3300000: sword01
+    4300000: headusOBJexport008
+    4300002: Object001
+    4300004: headusOBJexport009
+    4300006: sword01
+    4300008: BladeGirl_Body
+    4300010: BladeGirl_Shoulder
+    4300012: BG_weapon
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: Object001
+    13700002: headusOBJexport009
+    13700004: headusOBJexport008
+    13700006: BG_weapon
+    13700008: BladeGirl_Body
+    13700010: BladeGirl_Shoulder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0120000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

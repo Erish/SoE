@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 807da7fb9b8d9e9419fc9b2790d4a61f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: fadetoblack
+    100002: spiderwebs
+    100004: upper_slab
+    100006: //RootNode
+    400000: fadetoblack
+    400002: spiderwebs
+    400004: upper_slab
+    400006: //RootNode
+    2300000: fadetoblack
+    2300002: spiderwebs
+    2300004: upper_slab
+    2300006: //RootNode
+    3300000: fadetoblack
+    3300002: spiderwebs
+    3300004: upper_slab
+    3300006: //RootNode
+    4300000: wall_03_02
+    4300002: fadetoblack
+    4300004: upper_slab
+    4300006: spiderwebs
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

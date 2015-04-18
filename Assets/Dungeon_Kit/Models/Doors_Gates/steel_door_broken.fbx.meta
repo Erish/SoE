@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 1ef48ede86f1b31478e8dd9ec34da852
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: door_left
+    100002: door_left1
+    100004: door_right
+    100006: door_right1
+    100008: //RootNode
+    400000: door_left
+    400002: door_left1
+    400004: door_right
+    400006: door_right1
+    400008: //RootNode
+    2300000: door_left
+    2300002: door_left1
+    2300004: door_right
+    2300006: door_right1
+    2300008: //RootNode
+    3300000: door_left
+    3300002: door_left1
+    3300004: door_right
+    3300006: door_right1
+    3300008: //RootNode
+    4300000: broken_steel_door_frame
+    4300002: door_left
+    4300004: door_right
+    4300006: door_left1
+    4300008: door_right1
+    7400002: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
