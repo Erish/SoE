@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyResource\Script\Enemy\OnMouseOutline.cs">
     <Files>
       <File FileName="Assets\MyResource\Script\PlayerController.cs" Line="73" Column="2" />
-      <File FileName="Assets\MyResource\Script\Enemy\OnMouseOutline.cs" Line="16" Column="2" />
+      <File FileName="Assets\MyResource\Script\Enemy\OnMouseOutline.cs" Line="17" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

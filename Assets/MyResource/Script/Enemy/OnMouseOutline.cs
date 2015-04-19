@@ -23,6 +23,8 @@ public class OnMouseOutline : MonoBehaviour {
 	public Material BaseMaterial;
 	public Material OutlineMaterial;
 
+	private bool targetting;
+
 	// Use this for initialization
 	void Start () {
 	
